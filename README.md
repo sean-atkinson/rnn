@@ -1,6 +1,7 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Recurrent NN
+# RNN for text classification
 
-After this lesson, you will should be able to:
+### Classifying spam sms
 
-- Train RNN for text classification
-- Understand how to build RNNs in Keras
+![text labeled as ham and spam](https://imgur.com/LqlmvJQ.jpg)
+
+A Summary of the dataset we'll be using can be found [here](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/).
